@@ -12,7 +12,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kramping28&label=PROFILE%20VIEWS&color=F59E0B&style=for-the-badge" alt="Profile Views"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/kramping28">
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F59E0B"/>
@@ -255,8 +255,10 @@ ACTIONABLE
 </a>
 
 <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=F59E0B&center=true&vCenter=true&width=900&lines=Let's+Connect." alt="Typing Animation"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0D0D0D" width="100%"/>
+<br>
 
 </div>
 
