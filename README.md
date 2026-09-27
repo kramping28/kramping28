@@ -256,7 +256,7 @@ ACTIONABLE
 <img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=111111"/>
 </a>
 <a href="mailto:markoliquinosantos@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=F59E0B"/> 
+<img src="https://img.shields.io/badge/Gmail-Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=F59E0B"/> 
 </a> 
 
 <br>
